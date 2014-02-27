@@ -8,3 +8,8 @@ Compile with gcc (assembly is ARM only)
 press `<ENTER>` a lot.
 
 It's fun
+
+Screenshot
+----------
+![screenshot](screenshot.png)
+
